@@ -86,7 +86,7 @@ body {
   background-color: black;
 }
 
-.clock p{
+.clock .copy{
   font-size: 10px;
   position: absolute;
   top:80px;
@@ -94,7 +94,7 @@ body {
   color:red;
 }
 
-.clock p:hover{
+.clock .copy:hover{
   font-size: 12px;
   position: absolute;
   top:40px;
